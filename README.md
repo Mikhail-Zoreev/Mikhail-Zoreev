@@ -1,10 +1,6 @@
 
 # **Hi there 👋, I am Mikhail Zoreev aka BFDestroyeer**
 
-<a href="https://discord.gg/VK4k3Br">
-    DISCORD
-</a>
-
 ## About me:
 Hi i am Mikhail Zoreev, a developer from Nizniy Novgorod, Russia.
 * 👨‍🎓 I am informatics student at Lobachevsky University
