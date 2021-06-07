@@ -5,7 +5,7 @@
 Hi i am Mikhail Zoreev, a developer from Nizniy Novgorod, Russia.
 * 👨‍🎓 I am informatics student at Lobachevsky University
 * 🦊 Developing things in [Lazy Fox](https://github.com/lazyfox-studio)
-* ❤️ Like Open source
+* 👁 Computer vision engineer at Mixar
 
 ## **Languages and tools:**
 <code>
